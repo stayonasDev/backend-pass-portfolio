@@ -47,3 +47,8 @@ out/
 .terraform.lock.hcl
 terraform.tfvars
 .env
+
+portfolio-key
+portfolio-key.pem
+portfolio-key.pub
+terraform.tfvars
